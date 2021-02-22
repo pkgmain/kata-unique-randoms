@@ -1,0 +1,14 @@
+{
+  "name": "kata-unique-randoms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "random-ints.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
